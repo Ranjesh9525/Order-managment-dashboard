@@ -17,8 +17,8 @@ export default function TransactionPage() {
   const [isProfileOpen, setIsProfileOpen] = useState(false)
 
   const orderItems = [
-    { name: "SNEAKERS INVERNI BW", color: "Black", size: "42", price: "449.000", image: "/photu.jpeg"},
-    { name: "JACKET PISSED", color: "Black", size: "XL", price: "439.000", image: "/window.svg" },
+    { name: "ITEM 1", color: "Black", size: "42", price: "449.000", image: "/photu.jpeg"},
+    { name: "Item 2", color: "Black", size: "XL", price: "439.000", image: "/window.svg" },
   ]
 
   return (
