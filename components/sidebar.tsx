@@ -11,12 +11,12 @@ const menuItems = [
     label: "Product", 
     href: "/product",
     subItems: [
-      { label: "Decoration", count: "33" },
-      { label: "Fashion", count: "32" },
-      { label: "Accessories", count: "40" },
-      { label: "Gadget", count: "28" },
-      { label: "Food", count: "19" },
-      { label: "Sparepart", count: "19" },
+      { label: "Decoration", count: "05" },
+      { label: "Fashion", count: "15" },
+      { label: "Accessories", count: "10" },
+      { label: "Gadget", count: "458" },
+      { label: "Food", count: "149" },
+      { label: "Sparepart", count: "819" },
     ]
   },
   { icon: PieChart, label: "Finance", href: "/finance" },
